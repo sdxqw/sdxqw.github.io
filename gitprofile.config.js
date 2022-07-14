@@ -34,6 +34,7 @@ const config = {
       to: '',
     },
   ],
+  education: [],
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
     id: '', // Please remove this and use your own tag id or keep it empty
@@ -60,15 +61,7 @@ const config = {
     ],
 
     // Custom theme
-    customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#EE3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
-    },
+    customTheme: { },
   },
 };
 
