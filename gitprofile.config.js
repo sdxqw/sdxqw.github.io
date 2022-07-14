@@ -25,6 +25,15 @@ const config = {
   },
   skills: [
     'Java',
+    'JavaScript',
+    'Kotlin',
+    'HTML',
+    'CSS',
+    'C++',
+    'C#',
+    'Lua',
+    'PHP',
+    'Python',
   ],
   experiences: [
     {
