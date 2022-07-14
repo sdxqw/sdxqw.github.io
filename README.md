@@ -26,13 +26,6 @@
     </a>
   </p>
 
-## 💖 Support
-
-<p>You can show your support by starring this project.</p>
-<a href="https://github.com/arifszn/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" alt="Github Star">
-</a>
-
 ## 📄 License
 
 [Apache-2.0 License](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
