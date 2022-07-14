@@ -57,7 +57,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'corporate',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -71,34 +71,6 @@ const config = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'procyon',
     ],
 
     // Custom theme
@@ -107,7 +79,7 @@ const config = {
       secondary: '#219aaf',
       accent: '#e8d03a',
       neutral: '#2A2730',
-      'base-100': '#E3E3ED',
+      'base-100': '#EE3ED',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
