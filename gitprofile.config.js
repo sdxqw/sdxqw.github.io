@@ -18,7 +18,7 @@ const config = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'sdxqw',
+    dev: '',
     website: 'https://sdxqw.github.io',
     phone: '',
     email: 'xntrowdev@gmail.com',
