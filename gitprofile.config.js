@@ -42,6 +42,12 @@ const config = {
       from: '',
       to: '',
     },
+    {
+      company: 'Verish Optimizer',
+      position: 'Developer',
+      from: '',
+      to: '',
+    },
   ],
   education: [],
   googleAnalytics: {
